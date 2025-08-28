@@ -1,7 +1,5 @@
 <!-- Profile Image and Greeting -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" alt="Neeraj J" width="150" style="border-radius:50%;">
-</p>
+
 
 <h1 align="center">Hi there, I'm Neeraj J 👋</h1>
 
